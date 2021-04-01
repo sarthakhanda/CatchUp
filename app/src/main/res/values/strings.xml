@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">CatchUp</string>
+    <string name="welcome_to">Welcome To</string>
+    <string name="catchup_video_calling_app">CatchUp | Video Calling App</string>
+    <string name="sign_in_to_your_account">Sign In to your account</string>
+    <string name="email">Email :</string>
+    <string name="enter_your_email">Enter your Email</string>
 </resources>
